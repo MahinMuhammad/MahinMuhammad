@@ -43,11 +43,19 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mahinrahman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahinrahman" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahinmuhammad&show_icons=true&locale=en&layout=compact" alt="mahinmuhammad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahinmuhammad&show_icons=true&locale=en" alt="mahinmuhammad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahinmuhammad&" alt="mahinmuhammad" /></p>
+<table border=0>
+    <tr>
+        <td>
+            <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahinmuhammad&show_icons=true&locale=en&layout=compact" alt="mahinmuhammad" /></p>
+        </td>
+        <td>
+            <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahinmuhammad&show_icons=true&locale=en" alt="mahinmuhammad" /></p>
+        </td>
+        <td>
+            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahinmuhammad&" alt="mahinmuhammad" /></p>
+        </td>
+    </tr>
+</table
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
