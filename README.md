@@ -1,26 +1,32 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi 👋, I'm Md. Mahinur Rahman</h1>
-<h3 align="center">A passionate iOS & webapp engineer from Bangladesh</h3>
+<h3 align="center">A passionate iOS & webapp engineer from Bangladesh🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahinmuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="mahinmuhammad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahinmuhammad" alt="mahinmuhammad" /></a> </p>
+<!--guy programming on computer gif-->
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 I’m currently working on [PressPilot](https://github.com/MahinMuhammad/PressPilot)
 
+- 🤝 I’m available for freelancing.
+
 - 🌱 I’m currently learning **SwiftUI and NestJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MahinMuhammad](https://github.com/MahinMuhammad)
+- 👨‍💻 All of my projects are available at [GitHUb](https://github.com/MahinMuhammad)
 
 - 💬 Ask me about **SwiftUI, NestJS and Postgresql**
 
 - 📫 How to reach me **rahmanmahin@icloud.com**
 
-- 📄 Know about my experiences [https://mahinmuhammad.github.io/asset/Md-Mahinur-Rahman-CV.pdf](https://mahinmuhammad.github.io/asset/Md-Mahinur-Rahman-CV.pdf)
+- 📄 Know about my experiences [Resume](https://mahinmuhammad.github.io/asset/Md-Mahinur-Rahman-CV.pdf)
 
 - ⚡ Fun fact **I am too greedy to learn everything🤣**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
 <a href="https://twitter.com/immahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="immahin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahmanmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmanmahin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17171332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17171332" height="30" width="40" /></a>
@@ -43,3 +49,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahinmuhammad&" alt="mahinmuhammad" /></p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
