@@ -56,9 +56,9 @@
 </p>
 
 <!--Stat1-->
-
+<br>
 <a align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahinmuhammad&show_icons=true&theme=transparent&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahinmuhammad&show_icons=true&theme=transparent" />
 </a>
 
 <!--Stat2-->
@@ -103,7 +103,7 @@
 <!--Stat3-->
 
 <a align="center">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahinmuhammad&hide_border=true&theme=transparent" alt="mahinmuhammad" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahinmuhammad&theme=transparent" alt="mahinmuhammad" />
 </a>
 
 <!--Database I know-->
