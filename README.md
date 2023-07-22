@@ -58,7 +58,7 @@
 <!--Stat1-->
 <br>
 <a align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahinmuhammad&show_icons=true&theme=transparent" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahinmuhammad&show_icons=true&theme=transparent&hide_border=true" />
 </a>
 
 <!--Stat2-->
