@@ -103,7 +103,7 @@
 <!--Stat3-->
 
 <a align="center">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahinmuhammad&" alt="mahinmuhammad" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahinmuhammad&hide_border=true&theme=transparent" alt="mahinmuhammad" />
 </a>
 
 <!--Database I know-->
