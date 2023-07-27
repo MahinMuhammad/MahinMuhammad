@@ -8,7 +8,7 @@
 <a target="_blank" align="center">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-      <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+      <img align="right" top="500" height="300" width="400" alt="GIF" src="./68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif">
   </picture>
 </a>
 
