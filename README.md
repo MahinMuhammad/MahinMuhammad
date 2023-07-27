@@ -6,7 +6,10 @@
 
 <!--guy programming on computer gif-->
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+      <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </picture>
 </a>
 
 - 🔭 I’m currently working on [PressPilot](https://github.com/MahinMuhammad/PressPilot)
