@@ -82,6 +82,15 @@
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
   </a>
+  <a href="https://realm.io" target="_blank" rel="noreferrer">
+    <img src="./realm.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="firebase" width="40" height="40"/>
+  </a>
 </p>
 
 <!--Backend stack I know-->
@@ -113,19 +122,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
 
