@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **SwiftUI, NestJS and Postgresql**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Nf3Bx-uZ2g6yKeSot-LT97Aw9dSuVCvY/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-HUszeFPU56W2srsa9313GyknrKuJKta/view?usp=sharing)
 
 <!--languages I know-->
 
