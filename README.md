@@ -150,12 +150,10 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
-<a href="https://linkedin.com/in/rahmanmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmanmahin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17171332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17171332" height="30" width="40" /></a>
-<a href="https://fb.com/mahin5muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahin5muhammad" height="30" width="40" /></a>
-<a href="https://instagram.com/mahin_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahin_codes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mahinur_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mahinur_rahman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahinur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahinur" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rahmanmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmanmahin" height="30" width="40" /></a>
+  <a href="https://instagram.com/mahin_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahin_codes" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/17171332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17171332" height="30" width="40" /></a>
+  <a href="https://fb.com/mahin5muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahin5muhammad" height="30" width="40" /></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
