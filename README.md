@@ -12,13 +12,12 @@
   </picture>
 </a>
 
-- 🔭 I’m currently working on [PressPilot](https://github.com/MahinMuhammad/PressPilot) and [Poke](https://github.com/MahinMuhammad/Poke)
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for Fulltime job (iOS developer) or freelancing.
 
-- 🌱 I’m currently learning **SwiftUI and NestJS**
+- 🌱 I’m currently focussing on **SwiftUI and UIKit**
 
-- 💬 Ask me about **SwiftUI, NestJS and Postgresql**
+- 💬 Ask me about **SwiftUI and UIKit**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-HUszeFPU56W2srsa9313GyknrKuJKta/view?usp=sharing)
 
@@ -40,9 +39,6 @@
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
