@@ -13,9 +13,9 @@
 </a>
 
 
-- 🤝 I’m available for Fulltime job (iOS developer) or freelancing.
+- 🤝 I’m available for Fulltime job or freelancing.
 
-- 🌱 I’m currently focussing on **SwiftUI and UIKit**
+- 🌱 I’m currently focussing on **SwiftUI & UIKit**
 
 - 💬 Ask me about **SwiftUI and UIKit**
 
