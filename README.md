@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **SwiftUI and UIKit**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-HUszeFPU56W2srsa9313GyknrKuJKta/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14A9mWhFHn64F9924ggpySPjNi069vUmm/view?usp=share_link)
 
 <!--languages I know-->
 
