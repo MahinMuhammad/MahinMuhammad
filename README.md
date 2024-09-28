@@ -12,12 +12,15 @@
   </picture>
 </a>
 
+- 💻 Working in the **Fintech Industry**
 
-- 🤝 I’m available for Fulltime job or freelancing.
+- 📱 Developing a **PSP Wallet** in my current company.
 
-- 🌱 I’m currently focussing on **SwiftUI & UIKit**
+- 🌱 Experienced with **SwiftUI & UIKit**
 
-- 💬 Ask me about **SwiftUI and UIKit**
+- 💬 Ask me about **iOS Development**
+
+- 🤝 I’m available for freelance work.
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14A9mWhFHn64F9924ggpySPjNi069vUmm/view?usp=share_link)
 
@@ -27,15 +30,6 @@
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -137,9 +131,6 @@
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-</a>
-<a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
 </a>
 </p>
 
