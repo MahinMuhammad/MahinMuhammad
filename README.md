@@ -22,7 +22,7 @@
 
 - 🤝 I’m available for freelance work.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15b-Cri6qvNwQk1JH46PqFSrH57L2Jd7H/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15b6qmwnER7QIxnA48uqUcTaId66t6G1W/view?usp=sharing)
 
 <!--languages I know-->
 
